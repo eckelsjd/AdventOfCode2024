@@ -1,0 +1,51 @@
+# Compiled object files
+*.o
+*.obj
+bin/
+
+# Compiled static libraries
+*.lib
+*.a
+
+# Compiled dynamic libraries
+*.dll
+*.so
+*.dylib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.dSStore
+
+# Temporary files
+*.tmp
+*.log
+
+# IDE specific files
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other
+*.swp
+*.bak
+*.orig
+*.rej
+*.swo
+*.class
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.idb
+*.DS_Store
