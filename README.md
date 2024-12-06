@@ -3,3 +3,5 @@ Repo for learning C++.
 
 ## Problems
 - **Day 1** - List manipulations and file i/o.
+- **Day 2** - More lists and files.
+- **Day 3** - Regular expressions.
