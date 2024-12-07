@@ -5,3 +5,4 @@ Repo for learning C++.
 - **Day 1** - List manipulations and file i/o.
 - **Day 2** - More lists and files.
 - **Day 3** - Regular expressions.
+- **Day 4** - String manipulation and search.
