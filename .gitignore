@@ -1,3 +1,6 @@
+# Advent of code data files
+data/*.txt
+
 # Compiled object files
 *.o
 *.obj
