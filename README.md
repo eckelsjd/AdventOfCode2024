@@ -7,3 +7,4 @@ Repo for learning C++.
 - **Day 3** - Regular expressions.
 - **Day 4** - String manipulation and search.
 - **Day 5** - Sorting lists.
+- **Day 6** - Navigating guard patrol.
