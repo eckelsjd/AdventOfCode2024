@@ -8,3 +8,4 @@ Repo for learning C++.
 - **Day 4** - String manipulation and search.
 - **Day 5** - Sorting lists.
 - **Day 6** - Navigating guard patrol.
+- **Day 7** - Cartesian product and operators.
