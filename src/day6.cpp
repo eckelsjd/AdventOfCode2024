@@ -193,7 +193,7 @@ int part_two(Grid grid) {
 }
 
 int main() {
-    std::ifstream file("data/day6.txt");
+    std::ifstream file("../data/day6.txt");
     std::string line;
     Grid grid;
 
@@ -202,7 +202,7 @@ int main() {
     }
 
     part_one(grid); // Count guard positions
-    part_two(grid); // Count obstacles that create loops
+    part_two(grid); // Count obstacles that create loops (overcounting somehow)
 
     return 0;
 }

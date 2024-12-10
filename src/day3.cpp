@@ -53,7 +53,7 @@ int count_multiply(std::string content, bool check_enable = true, bool start_ena
 }
 
 int main() {
-    std::ifstream file("data/day3.txt");
+    std::ifstream file("../data/day3.txt");
     std::string content( (std::istreambuf_iterator<char>(file) ),
                          (std::istreambuf_iterator<char>()     ) );
 

@@ -159,7 +159,7 @@ int sum_middle_numbers(NumberLists updates) {
  * Detect unsorted lists of integers (i.e. updates) and sort them according to a set of rules.
  */
 int main() {
-    std::ifstream file("data/day5.txt");
+    std::ifstream file("../data/day5.txt");
     std::string line;
     NumberMap before_map;
     NumberMap after_map;

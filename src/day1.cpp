@@ -64,7 +64,7 @@ int main() {
 
     std::vector<std::vector<int>> lists = {{}, {}};
 
-    std::ifstream file("data/day1.txt");
+    std::ifstream file("../data/day1.txt");
     std::string line;
 
     while (std::getline(file, line)) {

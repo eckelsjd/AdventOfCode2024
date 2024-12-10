@@ -135,7 +135,7 @@ int count_xmas(std::vector<std::string> word_search) {
 }
 
 int main() {
-    std::ifstream file("data/day4.txt");
+    std::ifstream file("../data/day4.txt");
     std::string line;
     std::vector<std::string> lines;
 

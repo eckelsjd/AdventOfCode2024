@@ -61,7 +61,7 @@ bool is_safe_report(std::string report, int max_problems = 1) {
 
 // Count and return the number of safe reports in the data file
 int main() {
-    std::ifstream file("data/day2.txt");
+    std::ifstream file("../data/day2.txt");
     std::string line;
 
     int num_safe_reports = 0;
