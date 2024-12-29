@@ -9,3 +9,4 @@ Repo for learning C++.
 - **Day 5** - Sorting lists.
 - **Day 6** - Navigating guard patrol.
 - **Day 7** - Cartesian product and operators.
+- **Day 8** - Find antinode locations in a text grid.
